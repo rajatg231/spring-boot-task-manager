@@ -1,5 +1,7 @@
 # TASK MANAGER API WITH SPRING BOOT
-A CRUD API for Task Management System using Spring Boot, and PostgreSQL database. For frontend UI follow this [link](https://github.com/rajatg231/flutter-task-manager.git)
+A CRUD API for Task Management System using Spring Boot, and PostgreSQL database. For frontend UI follow this [link](https://github.com/rajatg231/flutter-task-manager.git).
+
+A working demonstration of the task manager can be seen in this [video](https://www.loom.com/share/6592251f03b74094952b2f31f3c91b45).
 
 ## Running Spring Boot Application
 This repository contains a Spring Boot application that you can clone and run on your local machine. Follow the steps below to get started.
